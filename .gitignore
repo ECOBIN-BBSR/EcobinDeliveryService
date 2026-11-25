@@ -1,0 +1,23 @@
+
+# .NET build output
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Development configuration and secrets
+**/appsettings.Development.json
+
+# Test results
+**/TestResults/
+
+# Publish output
+**/publish/
+**/artifacts/
+
+# IDE
+.idea/
+.vscode/
