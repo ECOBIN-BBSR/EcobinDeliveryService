@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EcobinDeliveryService.Repostiory/EcobinDeliveryService.Repostiory.csproj" />
+  <Project Path="EcobinDeliveryService.Service/EcobinDeliveryService.Service.csproj" />
+  <Project Path="EcobinDeliveryService.Shared/EcobinDeliveryService.Shared.csproj" />
+  <Project Path="EcobinDeliveryService.Web/EcobinDeliveryService.Web.csproj" />
+</Solution>

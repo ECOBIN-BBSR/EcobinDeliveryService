@@ -1,0 +1,17 @@
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/bin/Debug/net10.0/EcobinDeliveryService.Service.deps.json
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/bin/Debug/net10.0/EcobinDeliveryService.Service.dll
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/bin/Debug/net10.0/EcobinDeliveryService.Service.pdb
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/bin/Debug/net10.0/EcobinDeliveryService.Repostiory.dll
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/bin/Debug/net10.0/EcobinDeliveryService.Shared.dll
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/bin/Debug/net10.0/EcobinDeliveryService.Shared.pdb
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/bin/Debug/net10.0/EcobinDeliveryService.Repostiory.pdb
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/obj/Debug/net10.0/EcobinDeliveryService.Service.csproj.AssemblyReference.cache
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/obj/Debug/net10.0/EcobinDeliveryService.Service.GeneratedMSBuildEditorConfig.editorconfig
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/obj/Debug/net10.0/EcobinDeliveryService.Service.AssemblyInfoInputs.cache
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/obj/Debug/net10.0/EcobinDeliveryService.Service.AssemblyInfo.cs
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/obj/Debug/net10.0/EcobinDeliveryService.Service.csproj.CoreCompileInputs.cache
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/obj/Debug/net10.0/EcobinDe.667EC098.Up2Date
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/obj/Debug/net10.0/EcobinDeliveryService.Service.dll
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/obj/Debug/net10.0/refint/EcobinDeliveryService.Service.dll
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/obj/Debug/net10.0/EcobinDeliveryService.Service.pdb
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Service/obj/Debug/net10.0/ref/EcobinDeliveryService.Service.dll

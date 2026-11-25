@@ -1,0 +1,11 @@
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Shared/bin/Debug/net10.0/EcobinDeliveryService.Shared.deps.json
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Shared/bin/Debug/net10.0/EcobinDeliveryService.Shared.dll
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Shared/bin/Debug/net10.0/EcobinDeliveryService.Shared.pdb
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Shared/obj/Debug/net10.0/EcobinDeliveryService.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Shared/obj/Debug/net10.0/EcobinDeliveryService.Shared.AssemblyInfoInputs.cache
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Shared/obj/Debug/net10.0/EcobinDeliveryService.Shared.AssemblyInfo.cs
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Shared/obj/Debug/net10.0/EcobinDeliveryService.Shared.csproj.CoreCompileInputs.cache
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Shared/obj/Debug/net10.0/EcobinDeliveryService.Shared.dll
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Shared/obj/Debug/net10.0/refint/EcobinDeliveryService.Shared.dll
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Shared/obj/Debug/net10.0/EcobinDeliveryService.Shared.pdb
+/home/ice/Code/Ecobin/EcobinDeliveryService/EcobinDeliveryService.Shared/obj/Debug/net10.0/ref/EcobinDeliveryService.Shared.dll
